@@ -1,0 +1,15 @@
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\bin\Debug\net6.0\MyOrganization.exe
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\bin\Debug\net6.0\MyOrganization.deps.json
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\bin\Debug\net6.0\MyOrganization.runtimeconfig.json
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\bin\Debug\net6.0\MyOrganization.dll
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\bin\Debug\net6.0\MyOrganization.pdb
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.csproj.AssemblyReference.cache
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.AssemblyInfoInputs.cache
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.AssemblyInfo.cs
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.csproj.CoreCompileInputs.cache
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.dll
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\refint\MyOrganization.dll
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.pdb
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\MyOrganization.genruntimeconfig.cache
+D:\Users\rbehera\Downloads\coding-evaluation-main\coding-evaluation-main\dotnet\MyOrganization\obj\Debug\net6.0\ref\MyOrganization.dll
